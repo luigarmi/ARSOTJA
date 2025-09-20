@@ -1,0 +1,5 @@
+streamlit>=1.35
+sqlalchemy>=2.0
+pandas>=2.2
+reportlab>=3.6.12
+matplotlib>=3.8.0
